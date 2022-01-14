@@ -1,18 +1,24 @@
 ---
+layout: about
+title: about
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-I am working with Dr. José L. Gómez at Instituto de Astrofísica de Andalucía, IAA - CSIC, Granada, Spain for my Master’s Thesis for the academic year 2021-2022. The aim of the thesis is to determine the magnetic field structure of relativistic jets of supermassive black holes by doing Faraday rotation analysis of multi-frequency VLBA polarimetric data. The project is funded by JAE Intro 2021 Scholarship by CSIC, Spain.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Research Interests
-======
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-My research interests include Active Galactic Nuclei (AGN), Jets in AGN, VLBI imaging, Blazars, Quasars and NLS1 galaxies. In particular, I am interested in studying how jets in AGN are formed, what their magnetic field structure is and how it affects the jet formation. I am curious to find out how these jets stay collimated at large scales. I want to focus on these questions by analysing and studying radio observations. I also intend to learn and perform simulations of the jets to compare them with the observations.
-
-I am looking for Fall 2022 PhD positions in these domains.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
