@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guang-Yao Zhao"
 title_separator          : "-"
 name                     : &name "Guang-Yao Zhao"
-description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía"
+description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
 url                      : https://gyzhao060.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gyzhao060/gyzhao060.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guang-Yao Zhao"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía"
+  bio              : "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
   location         : "Granada, Spain"
   employer         :
   pubmed           : 
