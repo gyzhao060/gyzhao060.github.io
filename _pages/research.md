@@ -3,4 +3,4 @@ title: "Research"
 permalink: /research/
 ---
 
-Summarize Guang-Yao's research here
+My research work can be found on our group website [here](http://vlbigroup.iaa.es){:target="_blank"}.

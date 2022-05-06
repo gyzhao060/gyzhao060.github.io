@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Guang-Yao Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Guang-Yao Zhao
-
+About Me
+---
 
