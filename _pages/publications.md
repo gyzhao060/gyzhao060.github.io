@@ -12,3 +12,5 @@ author_profile: true
   <em>{{ publi.authors }} </em><br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
  
 {% endfor %}
+
+For a full list of my publications, please visit my [ORCID page](https://orcid.org/0000-0002-4417-1659).
