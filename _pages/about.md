@@ -12,7 +12,7 @@ About me
 
 <div style="text-align: justify"> 
 
-I am a postdoctoral researcher at the Severo Ochoa Center of Excellence in the <a href="https://www.iaa.csic.es/" target="_top">Institute of Astrophysics of Andalusia (IAA-CSIC)</a>. 
+I am a postdoctoral researcher at the Severo Ochoa Center of Excellence in the <a href="https://www.iaa.csic.es/" target="_top">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>. 
 Previously, I held a postdoctoral fellowship position at the <a href="https://www.kasi.re.kr/kor/index" target="_top">Korea Astronomy and Space Science Institute</a> from 2013 to 2019. 
 I obtained my doctoral degree at the Shanghai Astronomical Observatory in 2013.
 
