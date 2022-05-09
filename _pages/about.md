@@ -17,7 +17,7 @@ Previously, I held a postdoctoral fellowship position at the <a href="https://ww
 I obtained my doctoral degree at the Shanghai Astronomical Observatory in 2013.
 
 My research interest is primarily high angular resolution imaging and astrometric studies of supermassive black holes (SMBH) and active galactic nuclei (AGN) at millimeter-wavelengths.
-I became a member of the <a href="https://eventhorizontelescope.org/" target="_top">Event Horizon Telescope (EHT)</a> collaboration in 2017. Now I am serving as a coordinator of the Scattering working group, which is responsible for characterizing and mitigating the interstellar scattering effects on the EHT observation data of Sgr A\*. 
+I became a member of the <a href="https://eventhorizontelescope.org/" target="_top">Event Horizon Telescope (EHT)</a> collaboration in 2017. Now I am serving as a coordinator of the Scattering working group, which is responsible for characterizing and mitigating the interstellar scattering effects on the EHT observation data of Sgr A*. 
 I am also a co-leader of the <a href="https://zenodo.org/record/6522933" target="_top">SMILI</a> imaging team in the Imaging working group, one of the teams that have produced the M87* and Sgr A* images.
 
 Besides the EHT analyses, I am also working on <a href="https://www3.mpifr-bonn.mpg.de/div/vlbi/globalmm/" target="_top">global millimeter VLBI array</a> observations of a binary SMBH candidate, OJ 287, and high precision astrometric observations of AGNs with the <a href="https://radio.kasi.re.kr/kvn/main_kvn.php" target="_top">Korean VLBI Network (KVN)</a>. 
