@@ -10,7 +10,7 @@ redirect_from:
 About me
 ---
 
-;<div style="text-align: justify"> 
+; <div style="text-align: justify"> 
 
 I am a postdoctoral researcher at the Severo Ochoa Center of Excellence in the <a href="https://www.iaa.csic.es/" target="_top">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>. 
 Previously, I held a postdoctoral fellowship position at the <a href="https://www.kasi.re.kr/kor/index" target="_top">Korea Astronomy and Space Science Institute</a> from 2013 to 2019. 
@@ -24,5 +24,5 @@ Besides the EHT analyses, I am also working on <a href="https://www3.mpifr-bonn.
 The KVN is a unique facility designed to overcome specific difficulties of mm-VLBI. 
 One of my current focuses is introducing the KVN-compatible system to the next-generation mm-VLBI telescopes.
 
-;</div>
+; </div>
 
