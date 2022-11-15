@@ -5,7 +5,7 @@ permalink: /research/
 
 # Imaging supermassive black holes with the Event Horizon Telescope
 
-![]({{ site.url }}{{ site.baseurl }}/files/eht_m87.jpg)
+![](/files/eht_m87.jpg)
 
 In April 2019, we reported the first images of a black hole at the center of the galaxy M87. A defining feature of the pictures is an irregular but clear, bright ring whose size and shape agree closely with the expected lensed photon orbit of a 6.5 billion solar mass black hole. In May 2022, we present the image of the Galactic Center black hole, Sgr A\*, which reveals a similar ring-like structure as seen in M87. The observations were carried out by linking nine radio telescopes/arrays at six different geometric sites to form a VLBI network that receives signals at 1.3 mm. Our images establish that lensed rings are universal features of black holes and that general relativity can consistently predict this across three orders of magnitude in black hole mass. 
 My role in the EHT collaboration: I am the coordinator of the Scattering working group (WG), which is responsible for characterizing and mitigating the interstellar scattering effects in the observational data of Sgr A\*. I am also co-leading one of the imaging teams in the Imaging WG, which is responsible for reconstructing images of the EHT targets with regularized maximum likelihood method.
