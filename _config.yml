@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guang-Yao Zhao"
 title_separator          : "-"
 name                     : &name "Guang-Yao Zhao"
-description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+description              : &description "Postdoctoral Fellow <br/> Max Planck Institute for Radio Astronomy (MPIfR)"
 url                      : https://gyzhao060.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gyzhao060/gyzhao060.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guang-Yao Zhao"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
-  location         : "Granada, Spain"
+  bio              : "Postdoctoral Fellow <br/> Max Planck Institute for Radio Astronomy (MPIfR)"
+  location         : "Bonn, Germany"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "gyzhao@iaa.es"
+  pubmed           :
+  googlescholar    :
+  email            : "gyzhao_at_mpifr-bonn.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-4417-1659"
-  pinterest        : 
+  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  ads              : 
+  ads              :
 
 
 # Reading Files
