@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a radio astronomer at the VLBI group of the Max Planck Institute for Radio Astronomy (MPIfR) in Bonn, Germany. Previously, I worked at the Severo Ochoa Center of Excellence in the <a href="https://www.iaa.csic.es/" target="_top">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>, and the <a href="https://www.kasi.re.kr/kor/index" target="_top">Korea Astronomy and Space Science Institute</a> from 2013 to 2019.
+I am a radio astronomer at the VLBI group of the Max Planck Institute for Radio Astronomy (MPIfR) in Bonn, Germany.
+Previously, I worked at the Severo Ochoa Center of Excellence in the <a href="https://www.iaa.csic.es/" target="_top">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a> from 2019 to 2022, and the <a href="https://www.kasi.re.kr/kor/index" target="_top">Korea Astronomy and Space Science Institute</a> from 2013 to 2019.
 I obtained my doctoral degree at the Shanghai Astronomical Observatory in 2013.
 
 My research interest is primarily high angular resolution imaging and astrometric studies of supermassive black holes (SMBH) and active galactic nuclei (AGN) at millimeter-wavelengths.
